@@ -1,0 +1,10 @@
+/Users/lastjon/Projects/Figures/Figures/bin/Debug/netcoreapp2.1/Figures.deps.json
+/Users/lastjon/Projects/Figures/Figures/bin/Debug/netcoreapp2.1/Figures.runtimeconfig.json
+/Users/lastjon/Projects/Figures/Figures/bin/Debug/netcoreapp2.1/Figures.runtimeconfig.dev.json
+/Users/lastjon/Projects/Figures/Figures/bin/Debug/netcoreapp2.1/Figures.dll
+/Users/lastjon/Projects/Figures/Figures/bin/Debug/netcoreapp2.1/Figures.pdb
+/Users/lastjon/Projects/Figures/Figures/obj/Debug/netcoreapp2.1/Figures.csprojAssemblyReference.cache
+/Users/lastjon/Projects/Figures/Figures/obj/Debug/netcoreapp2.1/Figures.AssemblyInfoInputs.cache
+/Users/lastjon/Projects/Figures/Figures/obj/Debug/netcoreapp2.1/Figures.AssemblyInfo.cs
+/Users/lastjon/Projects/Figures/Figures/obj/Debug/netcoreapp2.1/Figures.dll
+/Users/lastjon/Projects/Figures/Figures/obj/Debug/netcoreapp2.1/Figures.pdb
